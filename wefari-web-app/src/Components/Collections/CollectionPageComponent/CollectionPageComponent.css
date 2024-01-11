@@ -1,0 +1,37 @@
+.collection-page-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    box-sizing: border-box;
+    padding:2.5vh;
+    padding-top:1.5vh ;
+}
+
+.collection-page-user-block{
+    padding:2.5vh;
+    padding-bottom:1.5vh;
+    padding-left:3vh;
+    box-shadow: 0 0.5vh 1vh rgba(0, 0, 0, 0.1);
+    margin-bottom: 3vh;
+    border-bottom-left-radius: 3vh;
+    border-bottom-right-radius: 3vh;
+}
+
+
+
+@media (min-width: 431px) {
+    .App {
+      width: 430px; /* Set the maximum width for screens larger than 430px */
+      margin: 0 auto;
+    }
+  }
+
+  
+@media (max-width: 359px) {
+    .App {
+      width: 360px; /* Set the maximum width for screens larger than 430px */
+      margin: 0 auto;
+    }
+  }

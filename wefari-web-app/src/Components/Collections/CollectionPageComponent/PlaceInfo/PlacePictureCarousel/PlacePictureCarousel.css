@@ -1,0 +1,29 @@
+.place-picture-carousel{
+margin-top: 2vh;
+}
+
+/* slick-css override */
+
+.slick-slide div{
+    height: 25vh;
+  }
+
+  .slick-slide img {
+    height:100%;
+    object-fit: cover;
+} 
+
+
+.slick-dots li button:before {
+  font-size: 0.8vh;
+  color: rgb(13, 39, 189);
+}
+
+.slick-dots li.slick-active button:before {
+  font-size: 0.8vh;
+  color: rgb(11, 30, 116);
+}
+
+.slick-dots{
+  position: static;
+}

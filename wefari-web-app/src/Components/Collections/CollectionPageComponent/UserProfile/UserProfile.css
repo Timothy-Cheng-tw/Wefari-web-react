@@ -1,0 +1,30 @@
+/* UserProfile.css */
+.user-profile {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    overflow: hidden;
+    width: 100%;
+    box-sizing: border-box; 
+    margin-bottom: 2vh;
+  }
+  
+  .profile-picture {
+    width: 6vh;
+    height: 6vh;
+    object-fit: cover;
+    border-radius: 100%;
+  }
+  
+  .user-details {
+    flex-grow: 1;
+  }
+  
+  .username {
+    font-size: 2vh;
+    font-weight: 500;
+    color:black;
+    padding-left: 1.5vh;
+    text-align: left;
+  }
+  

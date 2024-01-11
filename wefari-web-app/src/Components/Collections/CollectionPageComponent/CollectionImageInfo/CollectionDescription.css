@@ -1,0 +1,11 @@
+.collection-description {
+    width:100%;
+    background-color: #fffdfd;
+    font-weight: 400;
+    text-align: left;
+  }
+  
+  .collection-description p {
+    font-size: 1.8vh;
+    color: #333;
+  }

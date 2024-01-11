@@ -1,0 +1,36 @@
+/* Collection.css */
+.collection-image-block {
+    position: relative;
+    width: 100%; /* Adjust the width as needed */
+    overflow: hidden;
+
+  }
+  
+  .collection-image {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .collection-info {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: left;
+    color:white;
+    padding: 1.8vh;
+  }
+
+  .place-count {
+    font-size: 1.9vh;
+  }
+
+  .collection-title {
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    font-size: 4vh;
+    font-weight: bold;
+  }
+  
