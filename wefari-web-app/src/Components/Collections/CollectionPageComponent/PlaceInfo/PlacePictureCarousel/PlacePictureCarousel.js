@@ -8,9 +8,9 @@ import './PlacePictureCarousel.css'; // Import the CSS file
 const PlacePictureCarousel = ({ placeImages }) => {
     // Local image file in the public folder
     placeImages = [
-        '/image1.jpg',
-        '/image2.jpg',
-        '/image3.jpg',
+        'image1.jpg',
+        'image2.jpg',
+        'image3.jpg',
         // Add more image file paths as needed
     ];
 

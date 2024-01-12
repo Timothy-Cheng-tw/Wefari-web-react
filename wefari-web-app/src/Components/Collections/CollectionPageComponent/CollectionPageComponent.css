@@ -20,18 +20,17 @@
 }
 
 
-
-@media (min-width: 431px) {
+@media (orientation: portrait) and (min-height: 641px){
     .App {
-      width: 430px; /* Set the maximum width for screens larger than 430px */
-      margin: 0 auto;
+      height: 640px;
+      margin: auto;
     }
   }
 
-  
-@media (max-width: 359px) {
+@media (orientation: portrait) and (max-width: 359px) {
     .App {
-      width: 360px; /* Set the maximum width for screens larger than 430px */
-      margin: 0 auto;
+      width: 360px;
+      height:100%;
+      margin: auto;
     }
   }
