@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Wefari-web-react/static/css/main.ccff3ae0.css",
-    "main.js": "/Wefari-web-react/static/js/main.5ff15273.js",
-    "static/js/787.9dcb9f43.chunk.js": "/Wefari-web-react/static/js/787.9dcb9f43.chunk.js",
-    "static/media/slick.svg": "/Wefari-web-react/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/Wefari-web-react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/Wefari-web-react/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/Wefari-web-react/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/Wefari-web-react/index.html",
-    "main.ccff3ae0.css.map": "/Wefari-web-react/static/css/main.ccff3ae0.css.map",
-    "main.5ff15273.js.map": "/Wefari-web-react/static/js/main.5ff15273.js.map",
-    "787.9dcb9f43.chunk.js.map": "/Wefari-web-react/static/js/787.9dcb9f43.chunk.js.map"
+    "main.css": "/static/css/main.29284f06.css",
+    "main.js": "/static/js/main.e1c6aeba.js",
+    "static/js/787.9dcb9f43.chunk.js": "/static/js/787.9dcb9f43.chunk.js",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.29284f06.css.map": "/static/css/main.29284f06.css.map",
+    "main.e1c6aeba.js.map": "/static/js/main.e1c6aeba.js.map",
+    "787.9dcb9f43.chunk.js.map": "/static/js/787.9dcb9f43.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccff3ae0.css",
-    "static/js/main.5ff15273.js"
+    "static/css/main.29284f06.css",
+    "static/js/main.e1c6aeba.js"
   ]
 }
