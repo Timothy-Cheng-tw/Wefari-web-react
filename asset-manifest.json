@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Wefari-web-react/static/css/main.3c91798a.css",
-    "main.js": "/Wefari-web-react/static/js/main.5ff15273.js",
+    "main.js": "/Wefari-web-react/static/js/main.bca42059.js",
     "static/js/787.9dcb9f43.chunk.js": "/Wefari-web-react/static/js/787.9dcb9f43.chunk.js",
     "static/media/slick.svg": "/Wefari-web-react/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/Wefari-web-react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -9,11 +9,11 @@
     "static/media/slick.woff": "/Wefari-web-react/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Wefari-web-react/index.html",
     "main.3c91798a.css.map": "/Wefari-web-react/static/css/main.3c91798a.css.map",
-    "main.5ff15273.js.map": "/Wefari-web-react/static/js/main.5ff15273.js.map",
+    "main.bca42059.js.map": "/Wefari-web-react/static/js/main.bca42059.js.map",
     "787.9dcb9f43.chunk.js.map": "/Wefari-web-react/static/js/787.9dcb9f43.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c91798a.css",
-    "static/js/main.5ff15273.js"
+    "static/js/main.bca42059.js"
   ]
 }
