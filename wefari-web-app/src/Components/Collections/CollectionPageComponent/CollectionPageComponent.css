@@ -1,12 +1,18 @@
+
+.collection-page-header{
+  position: relative;
+  background-color: white;
+}
+
 .collection-page-body {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    color: white;
-    box-sizing: border-box;
-    padding:2.5vh;
-    padding-top:1.5vh ;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  padding:2.5vh;
+  padding-top:1.5vh ;
+  background-color: white;
 }
 
 .collection-page-user-block{
@@ -19,6 +25,33 @@
     border-bottom-right-radius: 3vh;
 }
 
+.collection-page-component{
+  height:100vh;
+  perspective: 1px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.background-element {
+  /* -webkit-transform: translateZ(-1px) translateX(50%) translateY(50%)scale(2); */
+  position: relative;
+  height:40vh;
+  width:100%;
+  background-color: rgb(190, 190, 190);
+  transform: translateZ(-1px) translateY(-30vh) scale(2);
+  z-index: -5;
+  width:100%;
+  /* to center image */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.background-element img{
+  height:100%;
+}
+
 /* Media query for screens 641px or larger */
 @media (orientation: portrait) and (min-height: 641px){
     .App {
@@ -27,9 +60,9 @@
     }
   }
 
-@media (orientation: portrait) and (max-width: 359px) {
+@media (orientation: portrait) and (max-width: 280px) {
     .App {
-      width: 360px;
+      width: 281px;
       height:100%;
       margin: auto;
     }

@@ -2,8 +2,7 @@
 .collection-image-block {
     position: relative;
     width: 100%; /* Adjust the width as needed */
-    overflow: hidden;
-
+    height:0;
   }
   
   .collection-image {
