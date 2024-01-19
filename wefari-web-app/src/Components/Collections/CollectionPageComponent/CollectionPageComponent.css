@@ -19,7 +19,7 @@
     border-bottom-right-radius: 3vh;
 }
 
-
+/* Media query for screens 641px or larger */
 @media (orientation: portrait) and (min-height: 641px){
     .App {
       height: 640px;
@@ -34,3 +34,10 @@
       margin: auto;
     }
   }
+
+@media (orientation: landscape) {
+    .App {
+      width: 40%;
+      margin: auto;
+    }
+}

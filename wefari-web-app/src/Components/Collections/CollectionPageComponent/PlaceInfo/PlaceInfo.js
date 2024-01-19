@@ -18,7 +18,7 @@ const PlaceInfo = ({ placeName, placeType, googleMapsLink, description }) => {
         <div className="place-description">{description}</div>
         <PlacePictureCarousel />
       </div>
-      <div className='place-info-end-line'></div>
+      {/* <div className='place-info-end-line'></div> */}
     </div>
   );
 };

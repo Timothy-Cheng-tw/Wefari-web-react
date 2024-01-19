@@ -18,14 +18,14 @@
 }
 
 .place-name {
-  font-size: 2.5vh;
+  font-size: 3vh;
   color: #333;
   font-weight: bold;
   margin: 0;
 }
 
 .place-type {
-  font-size: 2vh;
+  font-size: 2.5vh;
   color: #8E8E93;
   margin: 0;
 }
@@ -40,7 +40,7 @@
   padding: 0vh 1.5vh;
   text-decoration: none;
   border-radius: 1vh;
-  font-size: 1.5vh;
+  font-size: 2vh;
   font-weight:500;
 }
 
@@ -52,7 +52,7 @@
 
 .place-description {
   margin-top: 1.5vh;
-  font-size: 1.8vh;
+  font-size: 2.3vh;
   color: #333;
 }
 
