@@ -15,7 +15,7 @@ const CollectionPageComponent = () => {
         <div className='collection-page-component'>
 
 
-            <div className="background-element">
+            <div className="parallax-background-element">
                 <img src={'image1.jpg'} alt="Collection" />
             </div>
             <div style={whiteBGstyle}>

@@ -32,13 +32,13 @@
   overflow-y: auto;
 }
 
-.background-element {
+.parallax-background-element {
   /* -webkit-transform: translateZ(-1px) translateX(50%) translateY(50%)scale(2); */
   position: relative;
-  height:40vh;
+  height:50vh;
   width:100%;
   background-color: rgb(190, 190, 190);
-  transform: translateZ(-1px) translateY(-30vh) scale(2);
+  transform: translateZ(-1px) translateY(-25vh) scale(2);
   z-index: -5;
   width:100%;
   /* to center image */
@@ -48,7 +48,7 @@
 }
 
 
-.background-element img{
+.parallax-background-element img{
   height:100%;
 }
 
